@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/yct/GEM5_WORK/gem5'
+make: Leaving directory '/home/yct/GEM5_WORK/gem5'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
